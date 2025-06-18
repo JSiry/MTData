@@ -1,4 +1,3 @@
-# MTData
 📢 Notice
 
 This repository is currently under preparation for open-source release.
