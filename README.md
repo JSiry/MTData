@@ -1,3 +1,3 @@
 📢 Notice
 
-We plan to make the data publicly available after the paper is accepted.
+We are currently completing the final organization and verification of the dataset and will make it publicly available in the near future.
