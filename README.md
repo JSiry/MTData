@@ -17,7 +17,7 @@ The dataset accompanies [A Cross-subject Enhancement Model and Dataset for Cogni
 | Subject | Students | Exercises | Knowledge concepts | Abilities | Response records |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Math | 39,062 | 57 | 54 | 6 | 2,226,534 |
-| Physics | 39,062 | 26 | 25 | 5 | 1,015,612 |
+| Physics | 39,062 | 26 | 26 | 5 | 1,015,612 |
 
 **Correction:** Physics has 25 knowledge concepts; 26 in the paper is a typo.
 
@@ -32,8 +32,6 @@ MTData/
 ├── MTData_Math.csv
 └── MTData_Physics.csv
 ```
-
-Both files are UTF-8 with BOM, with English headers and Chinese concept and ability labels.
 
 ## Fields
 
