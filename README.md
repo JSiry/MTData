@@ -16,7 +16,7 @@ The dataset accompanies [A Cross-subject Enhancement Model and Dataset for Cogni
 
 | Subject | Students | Exercises | Knowledge concepts | Abilities | Response records |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Mathematics | 39,062 | 57 | 54 | 6 | 2,226,534 |
+| Math | 39,062 | 57 | 54 | 6 | 2,226,534 |
 | Physics | 39,062 | 26 | 25 | 5 | 1,015,612 |
 
 **Correction:** Physics has 25 knowledge concepts; 26 in the paper is a typo.
@@ -65,4 +65,3 @@ Each row records one student's response to one exercise.
   doi     = {10.1109/TCE.2026.3722386}
 }
 ```
-
