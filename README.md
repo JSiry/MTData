@@ -19,8 +19,6 @@ The dataset accompanies [A Cross-subject Enhancement Model and Dataset for Cogni
 | Math | 39,062 | 57 | 54 | 6 | 2,226,534 |
 | Physics | 39,062 | 26 | 26 | 5 | 1,015,612 |
 
-**Correction:** Physics has 25 knowledge concepts; 26 in the paper is a typo.
-
 This release contains the full dataset; the paper's MTData experiments use a 5,000-student subset.
 
 ## Files
